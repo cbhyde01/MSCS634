@@ -1,0 +1,461 @@
+Transaction_ID,Date,Product_Category,Product_Name,Units_Sold,Unit_Price,Total_Sales,Customer_Age,Customer_Region,Customer_Rating
+TXN0001,2025-02-01,Sports,Dumbbells,4,83.07,332.28,57,North,3.2
+TXN0002,2025-02-16,Sports,Yoga Mat,5,30.4,152.0,65,South,4.5
+TXN0003,2025-07-19,Beauty,Face Serum,6,42.78,256.68,43,South,4.2
+TXN0004,2025-08-19,Electronics,Headphones,3,97.75,293.25,27,West,3.6
+TXN0005,2025-10-05,Beauty,Moisturizer,9,28.17,253.53,46,South,4.2
+TXN0007,2025-06-18,Clothing,T-Shirt,5,21.76,108.8,25,East,3.5
+TXN0008,2025-10-31,Sports,Basketball,2,34.34,68.68,53,East,4.3
+TXN0009,2025-11-24,Sports,Basketball,8,33.82,270.56,34,North,4.1
+TXN0010,2025-10-15,Electronics,Speaker,8,102.27,818.16,62,East,3.1
+TXN0011,2025-01-14,Sports,Dumbbells,5,76.55,382.75,25,North,3.5
+TXN0012,2025-10-07,Clothing,T-Shirt,1,24.47,24.47,50,East,4.4
+TXN0013,2025-05-07,Home,Vacuum,3,158.96,476.88,42,West,3.9
+TXN0014,2025-01-22,Sports,Yoga Mat,8,25.77,206.16,66,South,4.1
+TXN0015,2025-12-30,Sports,Yoga Mat,6,30.38,182.28,55,East,4.3
+TXN0016,2025-02-02,Electronics,Smartwatch,1,192.78,192.78,61,East,4.3
+TXN0018,2025-05-13,Clothing,Jeans,6,64.42,386.52,72,North,3.2
+TXN0019,2025-06-16,Beauty,Moisturizer,9,27.56,248.04,33,West,3.8
+TXN0020,2025-04-10,Sports,Running Shoes,7,113.25,792.75,22,East,3.8
+TXN0021,2025-10-23,Clothing,Jacket,2,103.6,207.2,51,East,3.1
+TXN0022,2025-06-07,Sports,Yoga Mat,6,29.84,179.04,35,East,5.0
+TXN0023,2025-10-15,Home,Storage Box,1,24.37,24.37,20,North,4.5
+TXN0024,2025-08-03,Electronics,Smartwatch,2,198.23,396.46,63,North,3.4
+TXN0025,2025-04-18,Home,Blender,4,84.24,336.96,19,North,3.4
+TXN0026,2025-06-27,Sports,Running Shoes,3,100.6,301.8,56,South,4.2
+TXN0027,2025-12-15,Home,Storage Box,5,23.25,116.25,36,East,4.0
+TXN0028,2025-11-24,Electronics,Speaker,1,131.75,131.75,48,North,3.4
+TXN0029,2025-03-31,Electronics,Speaker,7,112.12,784.84,55,East,4.0
+TXN0030,2025-03-26,Electronics,Speaker,9,134.98,1214.82,31,North,3.6
+TXN0031,2025-12-18,Clothing,Jeans,8,67.73,541.84,46,North,4.2
+TXN0033,2025-02-03,Clothing,Sneakers,9,106.16,955.44,60,West,3.9
+TXN0034,2025-10-09,Home,Vacuum,1,174.78,174.78,37,East,4.7
+TXN0035,2025-01-02,Electronics,Speaker,7,111.45,780.15,71,West,5.0
+TXN0036,2025-03-07,Sports,Yoga Mat,7,25.09,175.63,38,East,3.3
+TXN0037,2025-07-02,Clothing,Sneakers,7,108.45,759.15,46,South,4.2
+TXN0038,2025-09-05,Electronics,Headphones,1,72.52000000000001,72.52,73,North,4.0
+TXN0039,2025-11-12,Sports,Running Shoes,6,104.64,627.84,63,North,3.2
+TXN0040,2025-12-05,Electronics,Speaker,6,106.46,638.76,22,South,3.8
+TXN0041,2025-07-10,Home,Storage Box,6,28.42,170.52,34,West,3.9
+TXN0043,2025-09-27,Beauty,Shampoo,6,19.21,115.26,63,South,3.6
+TXN0044,2025-10-30,Electronics,Smartwatch,3,198.62,595.86,32,West,2.7
+TXN0045,2025-10-02,Home,Vacuum,6,205.41,1232.46,52,South,3.5
+TXN0046,2025-06-15,Home,Blender,5,91.04,455.2,48,North,3.2
+TXN0047,2025-11-18,Sports,Running Shoes,8,101.38,811.04,21,South,4.2
+TXN0048,2025-02-22,Sports,Dumbbells,9,70.73,636.57,70,West,4.3
+TXN0049,2025-07-17,Clothing,Jacket,2,97.31,194.62,19,East,4.1
+TXN0050,2025-09-06,Electronics,Headphones,5,91.43,457.15,63,South,4.2
+TXN0051,2025-07-15,Home,Storage Box,5,27.63,138.15,20,South,5.0
+TXN0052,2025-06-01,Clothing,T-Shirt,9,24.51,220.59,34,North,3.3
+TXN0053,2025-09-09,Sports,Yoga Mat,1,31.57,31.57,23,West,4.3
+TXN0054,2025-10-12,Beauty,Face Serum,6,42.53,255.18,53,East,3.8
+TXN0056,2025-02-21,Home,Blender,1,76.25,76.25,42,South,4.2
+TXN0057,2025-09-26,Clothing,Jeans,4,59.51,238.04,36,South,3.4
+TXN0058,2025-12-01,Clothing,Jeans,5,70.35,351.75,66,South,4.7
+TXN0060,2025-03-15,Clothing,Jacket,1,117.75,117.75,46,East,3.9
+TXN0061,2025-07-31,Home,Storage Box,1,26.69,26.69,22,East,4.0
+TXN0062,2025-08-05,Beauty,Face Serum,4,42.52,170.08,43,West,3.6
+TXN0063,2025-01-19,Beauty,Shampoo,3,17.46,52.38,23,East,3.6
+TXN0064,2025-06-20,Home,Storage Box,5,25.54,127.7,56,East,4.0
+TXN0065,2025-02-20,Sports,Dumbbells,5,77.24,386.2,71,West,3.1
+TXN0066,2025-06-02,Electronics,Headphones,7,93.21,652.47,70,West,4.5
+TXN0067,2025-08-20,Clothing,Jacket,9,118.66,1067.94,33,West,3.9
+TXN0068,2025-12-08,Electronics,Smartwatch,1,201.23,201.23,49,South,3.9
+TXN0069,2025-05-12,Sports,Yoga Mat,5,31.66,158.3,62,East,4.0
+TXN0070,2025-12-14,Beauty,Moisturizer,8,27.7,221.6,42,North,5.0
+TXN0071,2025-01-12,Home,Lamp,2,49.27,98.54,57,East,4.8
+TXN0072,2025-06-17,Sports,Yoga Mat,9,26.28,236.52,35,South,4.3
+TXN0073,2025-05-23,Beauty,Sunscreen,8,16.78,134.24,74,North,3.7
+TXN0074,2025-12-31,Sports,Running Shoes,6,101.42,608.52,19,East,4.1
+TXN0075,2025-03-31,Electronics,Speaker,9,103.04,927.36,31,South,4.1
+TXN0076,2025-08-28,Electronics,Headphones,3,99.96,299.88,69,North,3.9
+TXN0078,2025-10-09,Sports,Running Shoes,2,129.76,259.52,66,East,4.8
+TXN0079,2025-09-12,Electronics,Smartwatch,2,199.68,399.36,46,East,4.1
+TXN0080,2025-09-26,Sports,Dumbbells,8,67.24,537.92,21,North,3.8
+TXN0082,2025-03-05,Beauty,Sunscreen,4,20.19,80.76,39,North,3.7
+TXN0083,2025-04-03,Beauty,Sunscreen,5,20.62,103.1,54,West,4.2
+TXN0084,2025-07-30,Beauty,Sunscreen,4,17.87,71.48,48,East,3.8
+TXN0085,2025-09-10,Beauty,Shampoo,2,17.04,34.08,41,West,5.0
+TXN0086,2025-04-22,Electronics,Smartwatch,1,210.02,210.02,53,South,4.2
+TXN0087,2025-11-03,Home,Vacuum,4,179.94,719.76,30,West,3.3
+TXN0088,2025-06-23,Electronics,Speaker,5,117.06,585.3,26,North,3.4
+TXN0089,2025-08-03,Home,Storage Box,7,26.11,182.77,55,East,3.8
+TXN0090,2025-08-17,Home,Blender,5,80.31,401.55,48,South,4.1
+TXN0091,2025-11-07,Sports,Dumbbells,8,84.47,675.76,46,East,3.5
+TXN0092,2025-06-30,Clothing,Jacket,4,121.13,484.52,20,North,4.4
+TXN0093,2025-07-26,Sports,Running Shoes,1,107.43,107.43,37,South,4.6
+TXN0094,2025-10-29,Sports,Yoga Mat,4,23.92,95.68,58,West,4.8
+TXN0095,2025-07-05,Electronics,Headphones,6,78.85,473.1,38,East,5.0
+TXN0096,2025-09-08,Sports,Running Shoes,7,108.48,759.36,26,East,3.8
+TXN0097,2025-10-04,Home,Blender,1,74.84,74.84,47,South,3.6
+TXN0098,2025-07-22,Sports,Yoga Mat,9,32.11,288.99,29,West,4.8
+TXN0099,2025-04-30,Electronics,Speaker,5,116.13,580.65,22,East,4.2
+TXN0100,2025-03-08,Clothing,Sneakers,3,85.04,255.12,31,West,4.3
+TXN0101,2025-12-30,Clothing,T-Shirt,3,23.93,71.79,51,East,3.5
+TXN0102,2025-08-21,Clothing,Jeans,8,68.39,547.12,49,East,3.8
+TXN0103,2025-09-29,Sports,Dumbbells,1,72.0,72.0,48,East,4.2
+TXN0104,2025-11-07,Home,Blender,7,88.61,620.27,39,East,3.8
+TXN0105,2025-08-01,Home,Lamp,8,45.7,365.6,46,West,3.5
+TXN0106,2025-08-19,Clothing,Jacket,6,123.77,742.62,40,North,4.5
+TXN0107,2025-09-10,Electronics,Smartwatch,1,253.85,253.85,43,South,3.1
+TXN0108,2025-09-14,Electronics,Smartwatch,2,210.02,420.04,47,East,3.1
+TXN0109,2025-08-26,Home,Vacuum,5,199.51,997.55,69,East,3.3
+TXN0110,2025-02-11,Sports,Dumbbells,5,83.25,416.25,46,East,3.3
+TXN0111,2025-02-09,Home,Vacuum,6,211.07,1266.42,74,North,5.0
+TXN0112,2025-02-15,Sports,Basketball,1,72.52000000000001,72.52,34,North,3.7
+TXN0114,2025-10-20,Electronics,Smartwatch,5,228.74,1143.7,33,West,4.5
+TXN0115,2025-05-15,Electronics,Headphones,4,76.95,307.8,24,West,3.1
+TXN0116,2025-09-27,Sports,Dumbbells,7,83.22,582.54,40,West,4.1
+TXN0117,2025-06-11,Clothing,T-Shirt,6,26.58,159.48,18,West,3.6
+TXN0118,2025-11-23,Electronics,Speaker,7,116.45,815.15,52,East,3.4
+TXN0119,2025-11-26,Sports,Dumbbells,4,82.95,331.8,35,East,3.8
+TXN0120,2025-03-10,Clothing,Jacket,8,122.76,982.08,56,North,4.3
+TXN0121,2025-08-21,Sports,Basketball,8,40.24,321.92,34,West,3.9
+TXN0122,2025-09-13,Home,Blender,8,94.24,753.92,59,East,4.1
+TXN0123,2025-02-07,Beauty,Shampoo,5,15.14,75.7,38,North,4.4
+TXN0124,2025-08-20,Electronics,Headphones,9,87.75,789.75,68,South,3.8
+TXN0125,2025-12-24,Beauty,Face Serum,7,39.48,276.36,34,South,3.0
+TXN0126,2025-07-13,Clothing,Sneakers,3,106.66,319.98,74,East,4.5
+TXN0127,2025-04-20,Home,Lamp,3,44.28,132.84,36,North,5.0
+TXN0128,2025-10-14,Home,Lamp,6,52.2,313.2,54,South,4.4
+TXN0129,2025-09-03,Beauty,Sunscreen,7,20.79,145.53,69,South,3.7
+TXN0130,2025-08-27,Home,Vacuum,4,162.91,651.64,36,West,4.2
+TXN0131,2025-09-27,Clothing,T-Shirt,1,27.31,27.31,23,South,2.6
+TXN0132,2025-07-08,Electronics,Headphones,3,87.8,263.4,63,South,3.9
+TXN0133,2025-11-24,Electronics,Speaker,4,104.18,416.72,57,South,4.3
+TXN0134,2025-01-01,Clothing,T-Shirt,2,23.4,46.8,34,North,3.4
+TXN0135,2025-01-11,Electronics,Headphones,5,88.72,443.6,36,South,3.8
+TXN0136,2025-04-28,Sports,Basketball,3,32.48,97.44,52,North,3.1
+TXN0137,2025-04-01,Sports,Basketball,3,33.22,99.66,71,South,3.3
+TXN0138,2025-01-18,Sports,Yoga Mat,6,25.06,150.36,36,North,4.2
+TXN0139,2025-02-26,Electronics,Tablet,2,352.35,704.7,46,East,4.6
+TXN0140,2025-11-07,Home,Storage Box,7,25.68,179.76,46,North,4.6
+TXN0141,2025-12-30,Home,Blender,14,88.71,1241.94,66,South,4.0
+TXN0142,2025-12-26,Clothing,Jeans,9,63.92,575.28,22,South,3.4
+TXN0143,2025-04-19,Clothing,Jacket,8,113.32,906.56,30,East,4.4
+TXN0144,2025-05-07,Electronics,Smartwatch,7,193.26,1352.82,39,North,3.7
+TXN0145,2025-10-29,Sports,Running Shoes,7,123.23,862.61,36,North,4.8
+TXN0147,2025-07-21,Beauty,Moisturizer,1,22.23,22.23,74,East,4.0
+TXN0148,2025-07-15,Beauty,Sunscreen,4,21.17,84.68,27,East,3.9
+TXN0150,2025-11-15,Home,Vacuum,8,170.09,1360.72,65,South,3.5
+TXN0151,2025-07-14,Home,Storage Box,4,26.33,105.32,59,West,3.9
+TXN0152,2025-07-07,Beauty,Sunscreen,9,18.54,166.86,71,North,3.7
+TXN0153,2025-10-09,Home,Blender,4,72.01,288.04,68,East,4.1
+TXN0154,2025-03-07,Electronics,Smartwatch,3,256.15,768.45,56,North,3.3
+TXN0155,2025-08-24,Clothing,Sneakers,7,105.78,740.46,39,South,4.7
+TXN0156,2025-07-28,Sports,Dumbbells,9,81.37,732.33,43,North,3.8
+TXN0157,2025-01-02,Beauty,Face Serum,5,34.32,171.6,29,South,3.8
+TXN0158,2025-09-20,Beauty,Sunscreen,8,18.3,146.4,71,West,4.1
+TXN0159,2025-05-21,Clothing,Jeans,6,63.51,381.06,41,North,3.8
+TXN0160,2025-05-18,Clothing,Jacket,4,99.99,399.96,38,South,4.0
+TXN0162,2025-04-12,Sports,Yoga Mat,4,31.2,124.8,45,North,3.2
+TXN0163,2025-02-16,Home,Lamp,5,44.54,222.7,20,North,4.4
+TXN0164,2025-02-10,Home,Blender,8,81.89,655.12,31,South,3.9
+TXN0165,2025-02-08,Sports,Basketball,8,39.22,313.76,74,East,3.3
+TXN0167,2025-07-10,Sports,Dumbbells,6,75.95,455.7,27,North,3.8
+TXN0168,2025-09-26,Sports,Basketball,5,35.88,179.4,60,South,3.1
+TXN0169,2025-01-16,Clothing,T-Shirt,7,25.96,181.72,29,East,5.0
+TXN0170,2025-04-07,Beauty,Face Serum,4,34.32,137.28,28,West,3.5
+TXN0171,2025-11-17,Clothing,T-Shirt,5,22.17,110.85,58,North,4.9
+TXN0172,2025-03-31,Home,Vacuum,3,171.04,513.12,34,North,3.5
+TXN0173,2025-04-14,Beauty,Shampoo,7,17.09,119.63,45,South,4.2
+TXN0174,2025-02-15,Clothing,Jacket,4,97.85,391.4,28,West,4.7
+TXN0175,2025-12-17,Beauty,Shampoo,5,17.28,86.4,29,North,4.6
+TXN0176,2025-04-28,Electronics,Smartwatch,1,253.14,253.14,70,East,4.7
+TXN0177,2025-11-03,Clothing,Jacket,5,99.68,498.4,74,North,1.8
+TXN0178,2025-12-03,Clothing,Sneakers,8,85.11,680.88,56,South,3.6
+TXN0179,2025-01-20,Clothing,T-Shirt,8,24.88,199.04,60,East,5.0
+TXN0180,2025-08-22,Beauty,Face Serum,3,38.27,114.81,60,North,3.2
+TXN0181,2025-10-19,Clothing,Sneakers,1,93.81,93.81,25,South,3.9
+TXN0182,2025-04-27,Clothing,T-Shirt,6,27.04,162.24,41,East,4.7
+TXN0183,2025-08-13,Home,Storage Box,6,24.8,148.8,72,East,4.1
+TXN0184,2025-01-15,Sports,Basketball,6,38.63,231.78,74,South,4.2
+TXN0185,2025-10-02,Sports,Basketball,9,35.33,317.97,55,North,4.9
+TXN0186,2025-05-28,Clothing,Jeans,4,66.44,265.76,68,East,4.5
+TXN0187,2025-03-11,Home,Storage Box,9,24.39,219.51,54,South,3.8
+TXN0188,2025-02-03,Clothing,Jeans,8,55.04,440.32,36,East,3.8
+TXN0189,2025-10-21,Sports,Basketball,1,33.18,33.18,29,North,3.0
+TXN0190,2025-02-17,Clothing,Sneakers,2,99.78,199.56,67,South,3.8
+TXN0191,2025-09-28,Clothing,Jeans,7,69.63,487.41,29,West,2.7
+TXN0192,2025-04-04,Beauty,Sunscreen,7,19.63,137.41,35,East,4.6
+TXN0193,2025-07-18,Beauty,Sunscreen,4,20.06,80.24,19,East,4.0
+TXN0194,2025-12-08,Home,Blender,2,80.62,161.24,66,West,3.4
+TXN0195,2025-10-24,Home,Storage Box,5,25.99,129.95,37,West,3.7
+TXN0196,2025-12-24,Beauty,Shampoo,9,18.75,168.75,19,East,3.9
+TXN0197,2025-09-13,Sports,Yoga Mat,5,27.63,138.15,31,East,4.2
+TXN0198,2025-05-30,Clothing,Jacket,4,112.84,451.36,34,North,3.7
+TXN0199,2025-01-15,Beauty,Sunscreen,2,16.19,32.38,37,South,4.9
+TXN0201,2025-05-27,Electronics,Tablet,2,400.5,801.0,53,West,4.9
+TXN0203,2025-07-30,Sports,Basketball,2,38.49,76.98,28,North,3.6
+TXN0204,2025-08-27,Home,Blender,8,86.58,692.64,18,West,4.7
+TXN0205,2025-04-27,Electronics,Speaker,7,137.16,960.12,36,South,4.4
+TXN0207,2025-03-27,Sports,Running Shoes,4,108.84,435.36,60,East,3.3
+TXN0208,2025-11-17,Beauty,Face Serum,6,34.83,208.98,70,East,3.8
+TXN0209,2025-03-24,Home,Blender,1,71.0,71.0,18,North,3.9
+TXN0211,2025-06-15,Beauty,Moisturizer,8,26.3,210.4,64,North,3.9
+TXN0212,2025-10-02,Sports,Yoga Mat,3,25.96,77.88,29,East,4.0
+TXN0213,2025-08-17,Clothing,Jeans,4,56.78,227.12,29,East,4.4
+TXN0214,2025-03-06,Electronics,Tablet,2,370.18,740.36,20,West,4.1
+TXN0215,2025-03-07,Beauty,Face Serum,2,40.8,81.6,43,West,4.0
+TXN0216,2025-03-12,Beauty,Moisturizer,5,28.91,144.55,53,North,3.8
+TXN0217,2025-09-30,Clothing,Jeans,7,63.24,442.68,49,South,5.0
+TXN0219,2025-05-08,Clothing,Jeans,7,68.07,476.49,49,North,4.2
+TXN0220,2025-07-25,Home,Blender,5,77.44,387.2,54,East,4.4
+TXN0221,2025-10-10,Electronics,Headphones,2,99.53,199.06,54,East,3.9
+TXN0222,2025-12-08,Clothing,T-Shirt,8,23.83,190.64,45,North,5.0
+TXN0223,2025-01-10,Home,Blender,2,86.42,172.84,30,West,3.2
+TXN0224,2025-02-19,Clothing,T-Shirt,1,21.67,21.67,46,West,3.6
+TXN0225,2025-05-05,Clothing,T-Shirt,1,22.97,22.97,33,West,3.7
+TXN0226,2025-02-06,Beauty,Sunscreen,7,21.45,150.15,60,North,2.9
+TXN0227,2025-12-18,Home,Blender,2,90.67,181.34,60,North,4.2
+TXN0228,2025-05-27,Beauty,Face Serum,2,72.52000000000001,145.04,21,South,3.7
+TXN0229,2025-10-20,Clothing,Vacuum,8,166.7,1333.6,73,South,4.1
+TXN0230,2025-02-16,Clothing,Jeans,5,63.58,317.9,55,South,4.4
+TXN0232,2025-12-07,Home,Blender,8,92.5,740.0,59,South,3.1
+TXN0233,2025-04-17,Clothing,Sneakers,6,93.91,563.46,55,South,3.6
+TXN0234,2025-02-04,Clothing,Jacket,5,105.99,529.95,35,North,4.6
+TXN0235,2025-10-04,Clothing,Sneakers,2,96.79,193.58,61,East,3.5
+TXN0236,2025-09-02,Beauty,Moisturizer,1,26.76,26.76,74,North,4.9
+TXN0237,2025-12-24,Clothing,T-Shirt,9,24.57,221.13,18,East,5.0
+TXN0238,2025-09-29,Home,Lamp,4,41.18,164.72,26,East,2.8
+TXN0239,2025-12-08,Clothing,Jeans,1,67.33,67.33,36,West,5.0
+TXN0240,2025-02-28,Home,Vacuum,7,172.25,1205.75,42,West,2.7
+TXN0241,2025-10-17,Home,Lamp,9,54.68,492.12,66,West,3.4
+TXN0242,2025-02-06,Beauty,Shampoo,2,16.36,32.72,40,West,4.5
+TXN0243,2025-11-29,Home,Storage Box,9,25.8,232.2,46,West,3.8
+TXN0244,2025-11-02,Electronics,Smartwatch,2,244.9,489.8,21,South,4.3
+TXN0245,2025-07-04,Beauty,Shampoo,1,17.1,17.1,44,South,3.5
+TXN0246,2025-08-14,Sports,Dumbbells,8,72.23,577.84,25,North,4.6
+TXN0247,2025-07-29,Home,Vacuum,2,165.0,330.0,28,South,3.4
+TXN0248,2025-10-23,Beauty,Moisturizer,3,25.26,75.78,41,West,4.3
+TXN0250,2025-12-16,Home,Blender,5,94.14,470.7,55,North,3.6
+TXN0251,2025-04-24,Clothing,Jacket,9,94.99,854.91,71,West,4.2
+TXN0252,2025-07-15,Sports,Running Shoes,7,103.12,721.84,21,West,3.8
+TXN0253,2025-03-04,Clothing,Sneakers,5,82.55,412.75,73,South,3.8
+TXN0254,2025-02-04,Clothing,Jeans,2,70.64,141.28,56,West,4.6
+TXN0255,2025-05-13,Sports,Yoga Mat,9,30.87,277.83,71,East,4.2
+TXN0256,2025-11-25,Home,Lamp,9,48.63,437.67,30,West,4.7
+TXN0257,2025-04-13,Home,Blender,5,79.2,396.0,38,North,4.7
+TXN0259,2025-04-14,Electronics,Smartwatch,2,205.14,410.28,73,West,3.9
+TXN0260,2025-03-28,Beauty,Shampoo,1,19.43,19.43,50,North,3.9
+TXN0261,2025-05-13,Electronics,Headphones,2,90.83,181.66,70,South,4.0
+TXN0262,2025-08-14,Electronics,Speaker,8,130.82,1046.56,55,West,4.8
+TXN0263,2025-05-29,Clothing,T-Shirt,1,22.03,22.03,42,East,4.0
+TXN0264,2025-03-08,Sports,Running Shoes,4,116.4,465.6,53,South,4.1
+TXN0265,2025-10-08,Sports,Yoga Mat,4,72.52000000000001,290.08,59,West,3.8
+TXN0266,2025-07-01,Electronics,Headphones,6,78.52,471.12,48,East,3.9
+TXN0267,2025-07-07,Clothing,Jeans,9,61.74,555.66,45,West,4.2
+TXN0268,2025-08-21,Home,Blender,7,75.31,527.17,52,North,5.0
+TXN0269,2025-09-19,Clothing,Jeans,9,61.55,553.95,21,West,3.9
+TXN0270,2025-08-21,Clothing,Running Shoes,5,112.52,562.6,29,West,4.1
+TXN0271,2025-12-06,Clothing,Jeans,6,65.2,391.2,72,East,4.3
+TXN0272,2025-09-26,Sports,Basketball,1,35.06,35.06,45,South,3.1
+TXN0273,2025-05-17,Sports,Basketball,2,31.84,63.68,53,North,3.9
+TXN0274,2025-12-15,Clothing,Jacket,1,97.15,97.15,63,North,5.0
+TXN0275,2025-09-23,Clothing,Jeans,5,69.12,345.6,61,North,3.5
+TXN0276,2025-02-23,Clothing,Jacket,8,109.29,874.32,40,South,3.6
+TXN0277,2025-02-24,Electronics,Speaker,5,127.38,636.9,21,South,4.2
+TXN0278,2025-06-13,Sports,Basketball,2,38.31,76.62,43,West,3.6
+TXN0279,2025-05-06,Clothing,T-Shirt,2,23.77,47.54,40,East,4.0
+TXN0280,2025-02-17,Clothing,T-Shirt,4,22.36,89.44,18,East,4.5
+TXN0281,2025-01-22,Clothing,Sneakers,3,102.5,307.5,71,South,3.8
+TXN0282,2025-08-12,Beauty,Moisturizer,5,29.89,149.45,43,West,3.9
+TXN0283,2025-09-17,Sports,Basketball,5,30.6,153.0,18,East,4.4
+TXN0284,2025-07-21,Clothing,Jeans,7,63.27,442.89,54,West,5.0
+TXN0285,2025-10-09,Electronics,Headphones,8,98.29,786.32,74,East,3.8
+TXN0286,2025-04-08,Clothing,Sneakers,7,92.2,645.4,64,East,3.9
+TXN0287,2025-03-20,Clothing,Sneakers,6,89.19,535.14,27,North,3.6
+TXN0288,2025-11-01,Beauty,Shampoo,1,16.5,16.5,18,East,3.6
+TXN0289,2025-12-03,Electronics,Headphones,8,82.72,661.76,70,West,3.5
+TXN0290,2025-04-11,Sports,Yoga Mat,9,25.78,232.02,37,West,4.1
+TXN0291,2025-10-11,Clothing,Sneakers,4,87.96,351.84,62,East,4.0
+TXN0292,2025-01-02,Sports,Running Shoes,7,105.1,735.7,50,East,2.7
+TXN0293,2025-09-24,Electronics,Headphones,2,89.51,179.02,64,West,3.9
+TXN0294,2025-03-10,Sports,Yoga Mat,3,26.92,80.76,27,North,3.7
+TXN0295,2025-09-27,Clothing,Jacket,8,114.69,917.52,57,North,4.3
+TXN0296,2025-03-31,Clothing,Sneakers,1,107.07,107.07,74,East,4.0
+TXN0297,2025-03-05,Electronics,Smartwatch,5,204.79,1023.95,46,South,4.3
+TXN0298,2025-10-20,Sports,Basketball,5,39.28,196.4,54,South,3.8
+TXN0299,2025-07-07,Clothing,Jeans,2,70.25,140.5,40,West,2.9
+TXN0300,2025-03-01,Clothing,T-Shirt,1,20.65,20.65,62,East,4.0
+TXN0302,2025-08-14,Beauty,Shampoo,1,16.01,16.01,48,West,4.0
+TXN0303,2025-12-22,Sports,Yoga Mat,9,29.92,269.28,46,North,3.9
+TXN0304,2025-10-01,Sports,Running Shoes,2,126.06,252.12,53,South,4.4
+TXN0305,2025-07-04,Clothing,Jeans,5,62.1,310.5,51,West,3.6
+TXN0306,2025-09-26,Beauty,Moisturizer,7,24.02,168.14,34,East,3.9
+TXN0308,2025-06-22,Clothing,Sneakers,6,98.94,593.64,22,West,3.6
+TXN0309,2025-07-08,Clothing,Jacket,8,102.87,822.96,62,East,3.0
+TXN0310,2025-10-09,Beauty,Moisturizer,3,24.45,73.35,29,South,4.6
+TXN0311,2025-06-16,Home,Vacuum,8,158.61,1268.88,30,West,3.7
+TXN0312,2025-05-08,Home,Storage Box,5,21.66,108.3,64,West,4.1
+TXN0313,2025-05-12,Clothing,Jeans,9,53.65,482.85,60,East,3.2
+TXN0314,2025-03-20,Sports,Basketball,3,39.05,117.15,49,East,3.7
+TXN0315,2025-05-05,Clothing,Sneakers,3,81.52,244.56,72,South,4.1
+TXN0316,2025-06-23,Sports,Dumbbells,5,75.71,378.55,25,South,4.2
+TXN0317,2025-01-22,Electronics,Headphones,8,97.32,778.56,37,West,3.9
+TXN0318,2025-12-03,Beauty,Sunscreen,7,21.3,149.1,65,South,4.4
+TXN0319,2025-05-19,Electronics,Headphones,1,78.86,78.86,22,North,4.7
+TXN0321,2025-12-09,Beauty,Moisturizer,6,26.17,157.02,58,South,4.5
+TXN0322,2025-10-18,Clothing,Jeans,4,55.86,223.44,62,South,3.8
+TXN0323,2025-12-14,Clothing,Sneakers,8,90.16,721.28,57,East,3.7
+TXN0324,2025-03-21,Sports,Running Shoes,7,108.36,758.52,43,East,3.6
+TXN0325,2025-05-04,Clothing,Sneakers,6,89.01,534.06,49,South,5.0
+TXN0326,2025-09-11,Home,Storage Box,3,22.26,66.78,53,East,3.6
+TXN0328,2025-10-30,Sports,Yoga Mat,8,25.79,206.32,44,East,4.0
+TXN0329,2025-09-21,Clothing,Jacket,5,113.95,569.75,70,West,4.1
+TXN0330,2025-01-27,Home,Blender,2,87.84,175.68,41,East,2.5
+TXN0331,2025-12-20,Beauty,Moisturizer,5,25.75,128.75,72,East,4.0
+TXN0332,2025-01-01,Electronics,Smartwatch,6,197.68,1186.08,54,South,3.8
+TXN0333,2025-12-23,Sports,Dumbbells,1,76.57,76.57,26,North,3.7
+TXN0334,2025-08-23,Home,Vacuum,4,175.36,701.44,35,South,4.0
+TXN0335,2025-02-27,Clothing,T-Shirt,9,24.0,216.0,61,South,2.8
+TXN0337,2025-05-05,Beauty,Shampoo,9,17.14,154.26,54,East,4.5
+TXN0339,2025-08-01,Beauty,Moisturizer,9,29.17,262.53,63,West,3.3
+TXN0340,2025-07-04,Home,Blender,2,83.5,167.0,50,East,3.8
+TXN0341,2025-07-12,Clothing,Running Shoes,4,109.16,436.64,25,South,3.1
+TXN0342,2025-10-05,Clothing,T-Shirt,1,22.04,22.04,74,East,3.8
+TXN0343,2025-11-22,Clothing,T-Shirt,2,25.12,50.24,33,East,4.3
+TXN0344,2025-11-06,Home,Lamp,1,41.11,41.11,23,North,3.2
+TXN0345,2025-06-14,Clothing,Jacket,4,95.87,383.48,63,East,4.1
+TXN0347,2025-12-17,Home,Lamp,7,49.43,346.01,72,West,4.4
+TXN0348,2025-03-23,Clothing,Jeans,7,59.39,415.73,59,North,4.9
+TXN0349,2025-07-18,Sports,Basketball,1,34.36,34.36,54,North,4.1
+TXN0350,2025-02-07,Sports,Dumbbells,1,72.52000000000001,72.52,67,South,3.3
+TXN0351,2025-07-29,Clothing,T-Shirt,1,22.01,22.01,43,North,3.7
+TXN0352,2025-03-15,Sports,Basketball,4,39.47,157.88,52,West,3.9
+TXN0353,2025-11-15,Beauty,Sunscreen,9,16.22,145.98,61,East,4.3
+TXN0354,2025-01-29,Beauty,Face Serum,8,39.59,316.72,21,West,4.7
+TXN0355,2025-07-03,Home,Blender,4,83.77,335.08,26,East,3.3
+TXN0356,2025-06-22,Sports,Dumbbells,5,82.85,414.25,59,East,3.3
+TXN0357,2025-12-21,Beauty,Shampoo,7,16.33,114.31,27,South,3.8
+TXN0358,2025-03-20,Beauty,Shampoo,1,18.19,18.19,71,West,4.0
+TXN0359,2025-06-24,Sports,Running Shoes,3,119.09,357.27,70,North,3.3
+TXN0360,2025-02-02,Beauty,Moisturizer,5,23.27,116.35,56,East,3.5
+TXN0361,2025-02-21,Electronics,Smartwatch,5,242.13,1210.65,34,East,3.6
+TXN0362,2025-06-12,Home,Blender,1,90.43,90.43,63,West,3.8
+TXN0364,2025-02-21,Electronics,Headphones,5,83.3,416.5,29,South,4.5
+TXN0365,2025-09-08,Home,Blender,3,70.49,211.47,53,South,4.5
+TXN0366,2025-04-01,Electronics,Smartwatch,5,192.18,960.9,37,South,4.1
+TXN0367,2025-03-16,Sports,Yoga Mat,4,72.52000000000001,290.08,51,North,4.1
+TXN0368,2025-02-06,Clothing,T-Shirt,7,23.43,164.01,23,West,4.3
+TXN0370,2025-01-16,Beauty,Face Serum,7,44.63,312.41,38,South,4.3
+TXN0372,2025-12-23,Clothing,Jeans,2,61.62,123.24,34,South,4.0
+TXN0373,2025-01-17,Beauty,Face Serum,3,39.05,117.15,23,East,4.3
+TXN0374,2025-04-05,Home,Blender,9,93.59,842.31,68,East,3.2
+TXN0375,2025-11-11,Clothing,T-Shirt,3,26.56,79.68,40,South,4.8
+TXN0376,2025-01-12,Electronics,Speaker,2,112.85,225.7,40,South,4.4
+TXN0377,2025-05-17,Clothing,Basketball,2,36.84,73.68,46,East,4.4
+TXN0378,2025-05-12,Sports,Basketball,6,34.65,207.9,23,West,4.4
+TXN0379,2025-09-28,Electronics,Headphones,9,84.8,763.2,20,East,4.7
+TXN0380,2025-02-17,Clothing,Jeans,4,66.6,266.4,34,West,3.7
+TXN0381,2025-09-08,Home,Lamp,5,51.08,255.4,74,South,4.2
+TXN0382,2025-03-06,Home,Blender,8,82.82,662.56,43,East,4.0
+TXN0383,2025-12-11,Beauty,Sunscreen,3,16.38,49.14,24,West,3.8
+TXN0384,2025-03-12,Electronics,Headphones,3,83.11,249.33,70,South,4.0
+TXN0385,2025-08-09,Clothing,Jeans,3,54.37,163.11,19,North,4.1
+TXN0386,2025-07-04,Beauty,Shampoo,1,19.19,19.19,63,East,3.6
+TXN0387,2025-06-24,Sports,Yoga Mat,7,30.89,216.23,69,North,4.1
+TXN0388,2025-12-06,Sports,Basketball,5,32.99,164.95,46,North,4.9
+TXN0389,2025-02-18,Sports,Yoga Mat,1,29.31,29.31,19,East,3.7
+TXN0390,2025-02-05,Home,Vacuum,4,204.81,819.24,60,South,4.2
+TXN0391,2025-12-21,Electronics,Speaker,5,111.55,557.75,40,West,4.0
+TXN0392,2025-06-05,Clothing,Jeans,9,69.32,623.88,61,South,4.0
+TXN0393,2025-01-19,Clothing,Jeans,3,62.05,186.15,26,West,3.7
+TXN0394,2025-04-04,Clothing,Jeans,9,68.02,612.18,56,West,3.8
+TXN0395,2025-12-05,Beauty,Sunscreen,8,16.96,135.68,48,East,4.2
+TXN0396,2025-12-06,Home,Lamp,2,44.59,89.18,71,North,4.2
+TXN0397,2025-03-07,Sports,Basketball,1,36.03,36.03,64,North,4.1
+TXN0398,2025-02-13,Clothing,T-Shirt,4,25.17,100.68,40,West,4.1
+TXN0401,2025-08-02,Beauty,Face Serum,1,34.48,34.48,70,East,3.6
+TXN0402,2025-06-01,Clothing,Sneakers,7,93.64,655.48,35,North,4.2
+TXN0404,2025-12-13,Home,Storage Box,8,72.52000000000001,580.16,68,East,4.0
+TXN0405,2025-11-14,Electronics,Tablet,3,393.81,1181.43,48,South,3.4
+TXN0406,2025-05-21,Clothing,Jeans,6,57.43,344.58,28,North,3.9
+TXN0407,2025-09-10,Home,Blender,4,78.2,312.8,48,West,4.1
+TXN0408,2025-07-10,Home,Vacuum,3,210.87,632.61,25,West,4.3
+TXN0409,2025-07-16,Electronics,Speaker,4,127.14,508.56,74,West,5.0
+TXN0410,2025-10-02,Clothing,Blender,7,72.81,509.67,19,East,3.6
+TXN0411,2025-06-12,Beauty,Sunscreen,6,19.64,117.84,61,East,3.3
+TXN0412,2025-03-20,Electronics,Tablet,7,72.52000000000001,507.64,26,West,4.2
+TXN0413,2025-09-15,Clothing,T-Shirt,2,22.84,45.68,58,South,3.4
+TXN0414,2025-03-14,Beauty,Shampoo,1,18.35,18.35,33,South,4.7
+TXN0415,2025-08-10,Sports,Dumbbells,6,70.67,424.02,35,East,3.1
+TXN0416,2025-09-24,Electronics,Headphones,9,75.78,682.02,74,West,3.9
+TXN0417,2025-02-03,Clothing,T-Shirt,5,23.54,117.7,36,West,4.1
+TXN0418,2025-12-30,Home,Storage Box,6,27.99,167.94,65,North,4.1
+TXN0420,2025-01-25,Beauty,Face Serum,9,33.53,301.77,19,South,4.5
+TXN0421,2025-02-14,Clothing,Jeans,9,56.59,509.31,29,North,2.8
+TXN0422,2025-10-29,Home,Storage Box,3,24.08,72.24,35,North,4.3
+TXN0423,2025-07-22,Sports,Yoga Mat,8,26.9,215.2,50,East,4.3
+TXN0424,2025-04-16,Electronics,Headphones,9,72.52000000000001,652.68,18,East,4.6
+TXN0425,2025-04-20,Beauty,Sunscreen,8,16.66,133.28,19,West,3.5
+TXN0426,2025-06-05,Clothing,T-Shirt,7,24.35,170.45,34,West,5.0
+TXN0428,2025-09-08,Beauty,Shampoo,9,17.84,160.56,61,South,4.2
+TXN0429,2025-06-06,Clothing,Jeans,5,61.3,306.5,36,East,4.0
+TXN0430,2025-11-15,Clothing,Jeans,8,55.49,443.92,30,East,4.1
+TXN0431,2025-06-09,Sports,Running Shoes,8,105.94,847.52,26,East,3.7
+TXN0432,2025-01-17,Sports,Yoga Mat,3,32.09,96.27,37,East,4.5
+TXN0433,2025-07-24,Home,Blender,7,78.54,549.78,18,South,3.4
+TXN0434,2025-02-15,Clothing,Jacket,5,99.75,498.75,40,East,4.0
+TXN0435,2025-05-23,Sports,Dumbbells,7,83.83,586.81,63,North,4.1
+TXN0436,2025-12-07,Clothing,T-Shirt,5,22.77,113.85,48,East,3.4
+TXN0437,2025-05-08,Clothing,T-Shirt,5,23.91,119.55,24,South,3.8
+TXN0438,2025-02-15,Electronics,Headphones,7,100.52,703.64,23,North,3.9
+TXN0439,2025-02-08,Electronics,Headphones,9,95.03,855.27,21,North,4.0
+TXN0440,2025-09-20,Sports,Dumbbells,9,82.38,741.42,68,East,3.7
+TXN0441,2025-03-11,Sports,Yoga Mat,9,28.74,258.66,55,South,4.0
+TXN0442,2025-03-15,Beauty,Moisturizer,1,23.35,23.35,57,East,3.5
+TXN0443,2025-11-07,Home,Lamp,1,46.62,46.62,51,West,3.7
+TXN0445,2025-11-05,Home,Vacuum,1,172.41,172.41,48,West,3.7
+TXN0446,2025-03-22,Electronics,Tablet,2,421.35,842.7,18,East,4.7
+TXN0447,2025-09-23,Home,Vacuum,6,176.04,1056.24,43,West,2.9
+TXN0448,2025-01-19,Home,Vacuum,3,177.69,533.07,62,North,4.7
+TXN0449,2025-12-26,Clothing,Sneakers,9,95.15,856.35,31,West,4.6
+TXN0450,2025-10-09,Sports,Yoga Mat,8,27.02,216.16,63,West,3.4
+TXN0451,2025-12-07,Clothing,T-Shirt,1,27.05,27.05,68,East,3.4
+TXN0452,2025-07-01,Electronics,Speaker,7,131.5,920.5,29,North,3.7
+TXN0453,2025-11-05,Beauty,Moisturizer,8,24.26,194.08,21,East,3.5
+TXN0455,2025-05-12,Electronics,Speaker,3,132.12,396.36,26,North,3.6
+TXN0456,2025-07-25,Electronics,Headphones,4,80.01,320.04,64,South,4.0
+TXN0457,2025-01-19,Beauty,Moisturizer,2,29.22,58.44,69,West,4.0
+TXN0458,2025-09-10,Home,Vacuum,5,192.73,963.65,48,North,5.0
+TXN0459,2025-05-01,Home,Lamp,8,46.23,369.84,18,West,4.1
+TXN0460,2025-04-02,Clothing,Jacket,8,104.71,837.68,25,East,4.0
+TXN0461,2025-12-09,Beauty,Moisturizer,2,24.59,49.18,34,East,5.0
+TXN0462,2025-04-15,Home,Storage Box,3,28.38,85.14,49,East,4.3
+TXN0463,2025-10-25,Clothing,Jeans,5,53.28,266.4,53,East,4.0
+TXN0464,2025-05-25,Home,Storage Box,3,25.78,77.34,45,North,5.0
+TXN0465,2025-08-29,Home,Lamp,9,41.03,369.27,49,East,4.9
+TXN0466,2025-09-12,Home,Vacuum,3,191.66,574.98,63,West,3.9
+TXN0467,2025-05-09,Sports,Basketball,1,31.79,31.79,18,East,4.6
+TXN0468,2025-05-27,Electronics,Smartwatch,1,221.7,221.7,66,West,4.1
+TXN0469,2025-09-25,Home,Vacuum,2,173.64,347.28,70,South,4.4
+TXN0470,2025-05-31,Beauty,Shampoo,4,19.3,77.2,65,East,4.5
+TXN0471,2025-06-18,Sports,Basketball,1,31.26,31.26,53,West,4.3
+TXN0472,2025-10-27,Clothing,T-Shirt,9,26.78,241.02,48,South,4.2
+TXN0473,2025-05-18,Clothing,T-Shirt,5,21.82,109.1,67,East,4.2
+TXN0474,2025-03-25,Beauty,Face Serum,4,44.38,177.52,51,West,4.0
+TXN0475,2025-01-22,Clothing,Jacket,6,104.81,628.86,34,East,4.4
+TXN0476,2025-08-19,Home,Lamp,5,53.58,267.9,57,East,3.5
+TXN0477,2025-05-18,Clothing,Jacket,2,120.66,241.32,29,East,3.9
+TXN0478,2025-04-17,Home,Storage Box,3,27.72,83.16,65,West,4.8
+TXN0479,2025-01-25,Sports,Yoga Mat,6,30.91,185.46,74,North,4.4
+TXN0480,2025-12-05,Sports,Basketball,9,34.51,310.59,29,South,2.9
+TXN0481,2025-09-09,Electronics,Tablet,3,451.91,1355.73,40,West,4.7
+TXN0482,2025-11-23,Home,Blender,4,89.52,358.08,52,North,3.2
+TXN0483,2025-04-15,Clothing,Jeans,6,61.02,366.12,40,South,3.6
+TXN0484,2025-10-26,Home,Blender,8,81.31,650.48,57,East,4.0
+TXN0485,2025-02-01,Sports,Dumbbells,8,67.2,537.6,51,East,4.8
+TXN0486,2025-04-04,Clothing,Jeans,2,65.19,130.38,45,East,3.4
+TXN0487,2025-07-01,Clothing,T-Shirt,8,27.51,220.08,67,North,4.7
+TXN0488,2025-11-14,Electronics,Headphones,9,86.15,775.35,66,East,4.0
+TXN0489,2025-01-08,Clothing,Jacket,8,116.92,935.36,44,East,5.0
+TXN0491,2025-07-11,Beauty,Face Serum,3,39.04,117.12,46,South,3.4
+TXN0492,2025-05-10,Home,Lamp,3,52.43,157.29,56,South,3.8
+TXN0493,2025-02-28,Sports,Running Shoes,8,72.52000000000001,580.16,40,East,4.0
+TXN0494,2025-05-02,Clothing,Sneakers,1,96.57,96.57,49,South,4.3
+TXN0495,2025-02-04,Electronics,Headphones,5,94.52,472.6,50,West,4.3
+TXN0496,2025-05-12,Electronics,Headphones,8,96.07,768.56,45,West,3.1
+TXN0498,2025-10-19,Electronics,Speaker,4,133.75,535.0,69,West,4.6
+TXN0499,2025-10-02,Sports,Dumbbells,5,78.44,392.2,70,East,3.3
+TXN0500,2025-06-12,Electronics,Headphones,5,100.88,504.4,23,East,4.2

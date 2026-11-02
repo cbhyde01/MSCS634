@@ -2,7 +2,7 @@
 
 **Student:** Corey Hyde  
 **Student ID:** 003044072  
-**Course:** MSCS-634-A01 — Advanced Big Data and Data Mining
+**Course:** MSCS-634— Advanced Big Data and Data Mining
 
 ## Purpose
 Demonstrate Python-based exploratory analysis, data visualization, missing-value imputation, IQR outlier removal, sampling, feature elimination, scaling, age discretization, descriptive statistics, and Pearson correlation.
@@ -27,8 +27,6 @@ The notebook builds a reproducible **synthetic**, 500-row retail transaction dat
 ## Interpretation and decisions
 All insights are computed from the actual generated data when the notebook runs, rather than typed-in or assumed. Correlation is not proof of causality. Artificial calendar variation is not evidence of seasonality. The IQR method can flag valid expensive transactions because categories differ in price, so outlier filtering is demonstration rather than a universal recommendation. Synthetic data and mode/median imputation limit real-world interpretation.
 
-## Screenshots
-The `screenshots/` folder stores 15 rendered PNGs. For submission requirements asking for screenshots of *calculation output*, capture the executed notebook cells in VS Code, especially the missing-value before/after output, IQR values and identified records, reductions, scaling and age groups, `.info()`/`.describe()`, and the numerical correlation matrix. The notebook's final checklist maps these to filenames.
 
 ## Repository structure
 ```text

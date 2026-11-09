@@ -78,14 +78,15 @@ The notebook was executed using `random_state=42` and **unscaled** Wine features
 - The split is stratified and reproducible. Parameter selection based on the test set is only an exploratory comparison; a more rigorous study would use training-set cross-validation to select settings and reserve the test set for final evaluation.
 
 ## Files
-- `MSCS_634_Lab_2.ipynb` — executed notebook with dataset exploration, models, plots, and discussion
-- `knn_accuracy.png` and `rnn_accuracy.png` — saved accuracy plots
-- `requirements.txt` — Python dependencies
+- `MSCS_634_Lab_2/MSCS_634_Lab_2.ipynb` — executed notebook with dataset exploration, models, plots, and discussion
+- `MSCS_634_Lab_2/knn_accuracy.png` and `MSCS_634_Lab_2/rnn_accuracy.png` — saved accuracy plots
+- `MSCS_634_Lab_2/requirements.txt` — Python dependencies
+- `MSCS_634_Lab_2/README.md` — Lab 2 overview and run instructions
 
 ## Run locally in VS Code
 1. Open this folder in VS Code and select a Python interpreter with Jupyter support.
-2. In a terminal, run `python -m pip install -r requirements.txt`.
-3. Open `MSCS_634_Lab_2.ipynb` and choose **Run All**.
+2. In a terminal, run `python -m pip install -r MSCS_634_Lab_2/requirements.txt`.
+3. Open `MSCS_634_Lab_2/MSCS_634_Lab_2.ipynb` and choose **Run All**.
 
 ## References
 - [scikit-learn Wine dataset](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_wine.html)
